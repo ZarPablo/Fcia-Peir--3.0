@@ -9,7 +9,7 @@ marcador.map((point) => {
 });*/
 
 
-const mymap = L.map('map').setView([-31.6075, -60.7599], 12);
+const mymap = L.map('map').setView([-31.61421, -60.70324], 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

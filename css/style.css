@@ -2,8 +2,18 @@
 #map{
     margin: auto;
     padding: auto;
-    width: 80%;
-    min-height: 580px;
-    max-height: 800px;
+    width: 60%;
+    min-height: 600px;
     height: 100%;
+    
+}
+
+.mapa {
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    margin-top: 3rem;
+    
+
 }
